@@ -1,5 +1,5 @@
-   ![logo](https://github.com/Hifza-Code-Journey/Hifza-Zafar/blob/main/Hif_Codes.png)
-    <h1 align="center">Hi 👋, I'm Hifza Zafar</h1>
+![logo](https://github.com/Hifza-Code-Journey/Hifza-Zafar/blob/main/Hif_Codes.png)
+<h1 align="center">Hi 👋, I'm Hifza Zafar</h1>
 <h3 align="center">Passionate about design, code, and education. Transforming ideas into visuals and empowering others through programming. 🎨💡💻</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Hifza-Code-Journey/Hifza-Zafar/blob/main/hifza.jpg"/>
